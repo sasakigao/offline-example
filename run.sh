@@ -7,4 +7,4 @@ spark-submit \
     --driver-memory 512M \
     --executor-memory 512M \
     --num-executors 3 \
-/home/sasaki/dev/gamease/example/src/main/python/trainer.py 0
+/home/sasaki/dev/gamease/example/src/main/python/cluster.py
